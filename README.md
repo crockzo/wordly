@@ -13,4 +13,4 @@ Project Management tool : Maven
 
 ***Project Overview***
 User Register Page 
-<img src="images/RegisterPage.jpeg"  width = "250" height="500"/>
+<img src="images/RegisterPage.png"  width = "250" height="500"/>
