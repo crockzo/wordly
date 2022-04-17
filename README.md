@@ -41,6 +41,12 @@ As the application is about Creating our own vocabularies we need an add word pa
 
 <img src="images/NewWordAdd.PNG"  />
 
-List of all the user specific words.</br>
+List of all the user specific words and options to update and delete the specific word.</br>
 <img src="images/WordList.PNG"  />
 
+
+To modify the word.
+<img src="images/updateWord.PNG"  />
+
+Search the word in your word dictonary.</br>
+<img src="images/SearchWordList.PNG"  width = "500" height="500" />
