@@ -49,4 +49,4 @@ To modify the word.
 <img src="images/updateWord.PNG"  />
 
 Search the word in your word dictonary.</br>
-<img src="images/SearchWordList.PNG"  width = "500" height="500" />
+<img src="images/SearchWordList.PNG"  />
