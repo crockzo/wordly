@@ -13,4 +13,4 @@ Project Management tool : Maven</br>
 
 ***Project Overview***</br>
 User Register Page </br>
-<img src="images/RegisterPage.png"  />
+<img src="images/RegisterPage.PNG"  />
